@@ -1,0 +1,9 @@
+NV001%Nguyen Van Tuan%1%700000
+NV002%Le Thi Mai%0%800000
+NV003%Pham Van Bot%1%1000000
+NV004%Truong Thi My%0%500000
+NV005%Nguyen Thi Nguyet%0%700000
+NV006%Bui Lan Huong%0%300000
+NV007%Bui Duc Toan%1%900000
+NV008%Diep Anh Thu%0%900000
+NV009%Pham Van Hung%1%800000

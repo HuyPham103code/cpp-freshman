@@ -1,0 +1,38 @@
+﻿Build started 15/12/2022 11:12:10 CH.
+     1>Project "D:\CODE\Exercise\Luyện_Công\Luyện_Công\Luyện_Công.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Luyện_Công.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ttt2.cpp
+         ttt2.cpp
+     1>ttt2.cpp(347): warning C4101: 'i' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CODE\Exercise\Luyện_Công\Debug\Luyện_Công.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Luyện_Công.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\CODE\Exercise\Luyện_Công\Debug\Luyện_Công.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CODE\Exercise\Luyện_Công\Debug\Luyện_Công.lib" /MACHINE:X86 Debug\BaiTap.obj
+         Debug\btree.obj
+         Debug\B_tree.obj
+         Debug\BT.obj
+         Debug\Cau1.obj
+         Debug\Circle.obj
+         Debug\Class.obj
+         "Debug\Cấp_Phát_Động.obj"
+         Debug\test1.obj
+         Debug\Internal.obj
+         Debug\practice.obj
+         Debug\Banking.obj
+         Debug\Kep.obj
+         Debug\SV.obj
+         Debug\TestRun.obj
+         Debug\thi2.obj
+         Debug\Thu.obj
+         Debug\ttt2.obj
+         Luyện_Công.vcxproj -> D:\CODE\Exercise\Luyện_Công\Debug\Luyện_Công.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\CODE\Exercise\Luyện_Công\Debug\Luyện_Công.exe;#1" /manifest "Debug\Luyện_Công.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Luyện_Công.unsuccessfulbuild".
+         Touching "Debug\Luyện_Công.lastbuildstate".
+     1>Done Building Project "D:\CODE\Exercise\Luyện_Công\Luyện_Công\Luyện_Công.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.77

@@ -1,0 +1,5 @@
+read|v|doc
+blue|adj|buon
+love|n|yeu, thich
+compatible with|_|tuong thich voi
+
